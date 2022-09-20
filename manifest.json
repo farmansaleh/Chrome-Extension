@@ -1,0 +1,11 @@
+{
+    "name": "Covid-19 Report",
+    "version": "1.0.0",
+    "description": "latest covid data report",
+    "manifest_version": 3,
+    "author": "Farman Saleh",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Latest Covid Report"
+    }
+}
